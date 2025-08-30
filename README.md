@@ -31,9 +31,9 @@ Bu kılavuz, Veritabanı Yönetimi Sistemleri dersi için hazırlanmıştır.
 6. Artık proje kullanıma ve değişikliklere hazırdır.
 
 ## Akış Diyagramı ve İlişkiler
-![Akış Diyagarmı](./rapor-ve-semalar/AKISSEMA.png)
+![Akış Diyagarmı](./docs/sema.png)
 
-![İlişkiler](./rapor-ve-semalar/doktor_otomasyon.png)
+![İlişkiler](./docs/rel.png)
 
 
 
