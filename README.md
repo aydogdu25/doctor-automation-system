@@ -1,4 +1,4 @@
-## Veritabanı Yönetimi Sistemleri Dersi Proje Kılavuzu
+## Doktor Otomasyon Sistemi
 
 ---
 
@@ -32,8 +32,10 @@ Bu kılavuz, Veritabanı Yönetimi Sistemleri dersi için hazırlanmıştır.
 
 ## Akış Diyagramı ve İlişkiler
 ![Akış Diyagarmı](./docs/sema.png)
+--
 
 ![İlişkiler](./docs/rel.png)
+
 
 
 
