@@ -29,3 +29,11 @@ Bu kılavuz, Veritabanı Yönetimi Sistemleri dersi için hazırlanmıştır.
 5. Oluşturulan bu veritabanını seçin ve "içe aktar" seçeneğini kullanarak "doktor_otomasyon.sql" dosyasını yükleyin.
 
 6. Artık proje kullanıma ve değişikliklere hazırdır.
+
+## Akış Diyagramı ve İlişkiler
+![Akış Diyagarmı](./rapor-ve-semalar/AKISSEMA.png)
+
+![İlişkiler](./rapor-ve-semalar/doktor_otomasyon.png)
+
+
+
